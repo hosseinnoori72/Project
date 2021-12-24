@@ -3,9 +3,9 @@ namespace project
 {
     public class program
     {
-        static void main()
+        static void Main()
         {
-            Console.WriteLine();
+            Console.WriteLine("Hiiiiiiiii");
             Console.ReadLine();
         }
     }
