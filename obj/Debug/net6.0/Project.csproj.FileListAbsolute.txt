@@ -1,0 +1,15 @@
+/home/hossein/Project/bin/Debug/net6.0/Project
+/home/hossein/Project/bin/Debug/net6.0/Project.deps.json
+/home/hossein/Project/bin/Debug/net6.0/Project.runtimeconfig.json
+/home/hossein/Project/bin/Debug/net6.0/Project.dll
+/home/hossein/Project/bin/Debug/net6.0/ref/Project.dll
+/home/hossein/Project/bin/Debug/net6.0/Project.pdb
+/home/hossein/Project/obj/Debug/net6.0/Project.csproj.AssemblyReference.cache
+/home/hossein/Project/obj/Debug/net6.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/hossein/Project/obj/Debug/net6.0/Project.AssemblyInfoInputs.cache
+/home/hossein/Project/obj/Debug/net6.0/Project.AssemblyInfo.cs
+/home/hossein/Project/obj/Debug/net6.0/Project.csproj.CoreCompileInputs.cache
+/home/hossein/Project/obj/Debug/net6.0/Project.dll
+/home/hossein/Project/obj/Debug/net6.0/ref/Project.dll
+/home/hossein/Project/obj/Debug/net6.0/Project.pdb
+/home/hossein/Project/obj/Debug/net6.0/Project.genruntimeconfig.cache
